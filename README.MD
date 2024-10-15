@@ -16,6 +16,11 @@ This repository contains the PostgreSQL database schema for "Bytes of China", a 
 - `README.md`: Project description and setup instructions.
 
 ## Database Schema
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+
+## Query Results
+![img.png](img.png)
 
 ### Tables:
 
